@@ -1,7 +1,7 @@
 ## Lead Tracker Extension
 
 ### Overview
-This is a chrome extension to easily save social media profile links. This project is practice project from [Scrimbla](https://scrimba.com/learn/learnjavascript/deploying-the-chrome-extension-coa574dda96a591412a8b7cff).
+This is a chrome extension to easily save social media profile links. This project is practice project from [Scrimba](https://scrimba.com/learn/learnjavascript/deploying-the-chrome-extension-coa574dda96a591412a8b7cff).
 
 ### Technology Used
 - HTML
